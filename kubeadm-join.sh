@@ -12,7 +12,7 @@
 [certs] Generating "front-proxy-client" certificate and key
 [certs] etcd/server serving cert is signed for DNS names [localhost master] and IPs [192.168.10.11 127.0.0.1 ::1]
 [certs] Generating "etcd/peer" certificate and key
-[certs] etcd/peer serving cert is signed for DNS names [localhost master] and IPs [192.168.10.11 127.0.0.1 ::1]
+[] etcd/peer serving cert is signed for DNS names [localhost master] and IPs [192.168.10.11 127.0.0.1 ::1]
 [certs] Generating "etcd/healthcheck-client" certificate and key
 [certs] Generating "apiserver-etcd-client" certificate and key
 [certs] Generating "sa" key and public key
