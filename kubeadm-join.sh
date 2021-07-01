@@ -10,8 +10,6 @@
 [certs] Generating "apiserver-kubelet-client" certificate and key
 [certs] Generating "front-proxy-ca" certificate and key
 [certs] Generating "front-proxy-client" certificate and key
-[certs] Generating "etcd/ca" certificate and key
-[certs] Generating "etcd/server" certificate and key
 [certs] etcd/server serving cert is signed for DNS names [localhost master] and IPs [192.168.10.11 127.0.0.1 ::1]
 [certs] Generating "etcd/peer" certificate and key
 [certs] etcd/peer serving cert is signed for DNS names [localhost master] and IPs [192.168.10.11 127.0.0.1 ::1]
