@@ -13,4 +13,4 @@ sed -i "$ a sh /worker-init/kubeadm.sh" /etc/rc.local
 
 sed -i "$ a rm /etc/rc.local" /etc/rc.local
 
-shutdown -r now
+#shutdown -r now
